@@ -77,8 +77,9 @@ body{ /* =Elementos de dentro do body terão... */
 }
 
 .instagram-login {
-    background-color: #0095f6;
-    color: white;
+    background-color: red;
+    color: black;
+    font-weight: bold;
     padding: 8px;
     border-radius: 4px;
 }
