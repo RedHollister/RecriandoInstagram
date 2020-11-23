@@ -21,7 +21,7 @@ body{ /* =Elementos de dentro do body terão... */
     display: flex;
     align-items: center;
     justify-content: start; /* horizontal */
-    width: 60%;
+    width: 80%;
     height: 100vh;
 }
 
